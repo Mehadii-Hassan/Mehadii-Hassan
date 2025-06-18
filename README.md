@@ -1,9 +1,9 @@
 <!-- README.md -->
 
-<h1 align="center">👋 Hello, Welcome to My Profile!</h1>
+<h1 align="center">🚀 Passionate Learner | AI Enthusiast | Python Developer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=800&color=00FFAA&center=true&vCenter=true&width=500&lines=🚀+AI+Engineer+in+Progress+;📚+CSE+Student+at+IUBAT+;🧠+Learning+AI,+ML+and+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=800&color=00FFAA&center=true&vCenter=true&width=500&lines=👋+Hello,+Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,20 +11,20 @@
 ## 👨‍💻 About Me
 
 🎓 CSE Student at IUBAT  
-🤖 Passionate about **Artificial Intelligence** & **Machine Learning**  
-📅 Enrolled in AI Agent Bootcamp from **28 June 2025**  
-💻 Working on **Python Projects & Automations**
+🤖 Learning Artificial Intelligence & Machine Learning  
+💻 Focused on Python, Web Automation, AI Tools  
+📅 Starting AI Agent Bootcamp on **28 June 2025**
 
 ---
 
 ## 🚀 Key Skills I'm Building
 
-✅ AI Agents with LangChain, OpenAI API  
+✅ AI Agents using LangChain, OpenAI API  
 ✅ Prompt Engineering & LLM Automation  
-✅ Web Scraping & Data Collection  
-✅ Vector DBs, Retrieval-Augmented Generation  
-✅ Flask/FastAPI based AI Tools  
-✅ Freelancing with Python Automation
+✅ Web Scraping, Automation with Python  
+✅ Vector DBs, Retrieval-Augmented Generation (RAG)  
+✅ Flask, FastAPI based AI Tools  
+✅ Git & GitHub for Project Management
 
 ---
 
@@ -54,18 +54,22 @@
 
 ---
 
-## 📩 Contact
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-contribution-graph.ez4o.com/?username=Mehadi-Hassan&theme=tokyonight" width="90%" />
+</p>
+
+---
+
+## 📬 Contact Me
 
 📧 Email: [mehadi.cse01@gmail.com](mailto:mehadi.cse01@gmail.com)
 
 ---
 
-## ☪️ Islamic Motivation
-
-<p align="center"><b>"Whoever relieves a believer’s distress of the distressful aspects of this world, Allah will rescue him from a difficulty of the difficulties of the Hereafter."</b><br>— (Sahih Muslim, Hadith 2699)</p>
-
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Verily+with+every+difficulty+comes+relief+-+Quran+94:6" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Manush+chai+sei+ja+she+cheshta+kore+-+Al-Quran" />
 </p>
 
-<p align="center"><i>"If your intention is pure, even the smallest deed becomes a great success, In Shaa Allah."</i></p>
+<p align="center"><i>“Every bug is a lesson, every solution is a step forward.”</i></p>
