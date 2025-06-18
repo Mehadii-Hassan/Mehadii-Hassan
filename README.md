@@ -1,44 +1,51 @@
-# 👋 Hi, I'm Mehadi Hassan
+<h1 align="center">👋 Hi, I'm Mehadi Hassan</h1>
 
-🎓 I am currently pursuing a degree in **CSE at IUBAT**  
-🤖 Passionate about **AI & Machine Learning**  
-🚀 Dreaming to become a skilled **AI Engineer**  
-📅 Starting my journey with **AI Agent Development Bootcamp** from 28 June
+<p align="center">
+🎓 Currently pursuing a degree in <strong>Computer Science and Engineering (CSE)</strong> at <strong>IUBAT</strong><br>
+🤖 Passionate about <strong>AI</strong> & <strong>Machine Learning</strong><br>
+🚀 Dreaming to become an <strong>AI Engineer</strong><br>
+🧠 Starting my journey with <strong>AI Agent Development Bootcamp</strong> from <strong>28 June</strong>
+</p>
 
 ---
 
-## 🧠 Currently Learning
+### 🚀 Currently Learning
 - Python Automation & Problem Solving
 - AI Agent Development
 - Freelancing with Python
 
 ---
 
-## 🛠️ Languages & Tools
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![C](https://img.shields.io/badge/-C-333?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=cpp)
-![HTML](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
-![VS Code](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visual-studio-code)
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
-
-![Mehadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehadii-Hassan&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehadii-Hassan&layout=compact&theme=tokyonight)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mehadii-Hassan&theme=tokyonight)](https://git.io/streak-stats)
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mehadii-Hassan&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=Mehadii-Hassan&theme=radical" width="48%"/>
+</p>
 
 ---
 
-## 📫 Reach Me
+### 💻 Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehadii-Hassan&layout=compact&theme=radical"/>
+
+---
+
+### 📫 Reach Me
 - ✉️ Email: mehadi.cse01@gmail.com
 
 ---
 
-> "The future belongs to those who learn, build, and innovate." — Let's build something amazing with AI!
+<p align="center"><i>“The future belongs to those who learn, build, and innovate!”</i></p>
+
 
