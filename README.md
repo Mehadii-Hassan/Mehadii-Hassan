@@ -69,7 +69,7 @@
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Manush+chai+sei+ja+she+cheshta+kore+-+Al-Quran" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=People+get+what+they+strive+for-+Al-Quran." />
 </p>
 
 <p align="center"><i>“Every bug is a lesson, every solution is a step forward.”</i></p>
