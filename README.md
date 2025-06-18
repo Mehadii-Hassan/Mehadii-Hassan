@@ -69,7 +69,5 @@
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=People+get+what+they+strive+for-+Al-Quran." />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Every+bug+is+a+lesson,+every+solution+is+a+step+forward." alt="Inspirational Quote"/>
 </p>
-
-<p align="center"><i>“Every bug is a lesson, every solution is a step forward.”</i></p>
