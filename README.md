@@ -1,9 +1,9 @@
 <!-- README.md -->
 
-<h1 align="center">⚡ Mehadi Hassan — AI Engineer in Progress ⚡</h1>
+<h1 align="center">⚡ Mehadi Hassan — Future AI Engineer ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+CSE+Student+at+IUBAT;Python+Lover+%7C+Problem+Solver+%7C+Freelancer+Soon;Learning+Every+Day+to+Build+Something+Awesome!+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=800&color=00FFAA&center=true&vCenter=true&width=500&lines=👋+Hello,+Welcome+to+My+Profile!" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,28 +13,32 @@
 🎓 CSE Student at IUBAT  
 🤖 Passionate about **Artificial Intelligence** & **Machine Learning**  
 🚀 Aspiring to be a Professional **AI Engineer**  
-📅 Starting AI Agent Bootcamp from **28 June 2025**  
-💻 Currently uploading **Python learning codes** (AI Projects coming soon!)
+📅 Enrolled in AI Agent Bootcamp from **28 June 2025**  
+💻 Currently working on **Python & Automation Projects**
 
 ---
 
-## 🚧 Currently Learning / Working On
-- Python Automation & Problem Solving  
-- AI Agent Bootcamp (16 Weeks)  
-- Freelancing with Python & AI  
+## 🚀 Key Skills I'm Building
 
-> ✅ After this bootcamp, I'm expected to gain the following key skills:
+✅ AI Agents with LangChain, OpenAI API  
+✅ Web Automation & Data Scraping  
+✅ Prompt Engineering & Vector DBs  
+✅ Multimodal AI, AutoGPT, RAG  
+✅ AI-based SaaS Product Design  
+✅ API Integration, n8n Automation  
+✅ Python, FastAPI, Flask, LLM Fine-tuning
 
 ---
 
 ## 🛠️ Languages & Tools
-<p>
-  <img src="https://img.shields.io/badge/Python-05122A?style=for-the-badge&logo=python&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/C%20Language-05122A?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-05122A?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-05122A?style=for-the-badge&logo=html5&logoColor=orange" />
-  <img src="https://img.shields.io/badge/CSS3-05122A?style=for-the-badge&logo=css3&logoColor=blue" />
-  <img src="https://img.shields.io/badge/GitHub-05122A?style=for-the-badge&logo=github&logoColor=white" />
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -42,23 +46,30 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mehadi-Hassan&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mehadi-Hassan&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mehadi-Hassan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mehadi-Hassan&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehadi-Hassan&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehadi-Hassan&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
 ## 📩 Contact
+
 📧 Email: [mehadi.cse01@gmail.com](mailto:mehadi.cse01@gmail.com)
 
 ---
 
+## ☪️ Islamic Motivation
+
+<p align="center"><b>"যে ব্যক্তি মানুষের উপকার করে, আল্লাহ তার উপকার করেন। যে ব্যক্তি অন্যকে কষ্ট থেকে রক্ষা করে, কিয়ামতের দিন আল্লাহ তাকে কষ্ট থেকে রক্ষা করবেন।"</b><br>— (মুসলিম, হাদিস: 2580)</p>
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Have+Taqwa+in+Allah+wherever+you+are,+and+follow+the+bad+deed+with+a+good+one." />
 </p>
 
-<p align="center">🔗 "The future belongs to those who learn, build, and innovate." — Let's build something amazing with AI!</p>
+---
+
+<p align="center"><i>"নিয়ত ঠিক থাকলে, ছোট কাজও বড় অর্জন হয়ে দাঁড়ায় ইনশাআল্লাহ।"</i></p>
