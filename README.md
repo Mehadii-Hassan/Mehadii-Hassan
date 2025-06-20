@@ -22,7 +22,7 @@
 ✅ AI Agents using LangChain, OpenAI API  
 ✅ Prompt Engineering & LLM Automation  
 ✅ Web Scraping, Automation with Python  
-✅ Vector DBs, Retrieval-Augmented Generation (RAG)  
+✅ Vector DBs, Retrieval‑Augmented Generation (RAG)  
 ✅ Flask, FastAPI based AI Tools  
 ✅ Git & GitHub for Project Management
 
@@ -44,25 +44,23 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mehadi-Hassan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mehadi-Hassan&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mehadii-Hassan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mehadii-Hassan&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehadi-Hassan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehadii-Hassan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
 </p>
 
 ---
-
 
 ## 📈 Recent Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mehadi-Hassan&theme=tokyonight&border_radius=4&area=true" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mehadii-Hassan&theme=tokyonight&border_radius=4&area=true" />
 </p>
 
 ---
-
 
 ## 📬 Contact Me
 
