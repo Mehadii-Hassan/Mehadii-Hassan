@@ -57,7 +57,7 @@
 ## 📈 Recent Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mehadii-Hassan&theme=tokyonight&border_radius=4&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mehadii-Hassan&theme=tokyonight&area=true&hide_border=true" />
 </p>
 
 ---
