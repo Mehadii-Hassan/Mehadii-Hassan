@@ -54,13 +54,15 @@
 
 ---
 
-## 📈 Contribution Graph
+
+## 📈 Recent Activity
 
 <p align="center">
-  <img src="https://github-contribution-graph.ez4o.com/?username=Mehadi-Hassan&theme=tokyonight" width="90%" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Mehadi-Hassan&theme=tokyonight&border_radius=4&area=true" />
 </p>
 
 ---
+
 
 ## 📬 Contact Me
 
