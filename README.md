@@ -12,7 +12,7 @@
 
 🎓 CSE Student at IUBAT  
 🤖 Learning Artificial Intelligence & Machine Learning  
-💻 Focused on Python, Web Automation, AI Tools  
+💻 Focused on AI Tools, AI Agent 
 📅 Starting AI Agent Bootcamp on **28 June 2025**
 
 ---
@@ -20,10 +20,12 @@
 ## 🚀 Key Skills I'm Building
 
 ✅ AI Agents using LangChain, OpenAI API  
+✅ Openai Agent SDK
 ✅ Prompt Engineering & LLM Automation  
 ✅ Web Scraping, Automation with Python  
 ✅ Vector DBs, Retrieval‑Augmented Generation (RAG)  
 ✅ Flask, FastAPI based AI Tools  
+✅ Streamlit for web UI
 ✅ Git & GitHub for Project Management
 
 ---
