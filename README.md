@@ -18,15 +18,14 @@
 ---
 
 ## 🚀 Key Skills I'm Building
-
-<br>✅ AI Agents using LangChain, OpenAI API  </br>
-<br>✅ Openai Agent SDK </br>
-<br>✅ Prompt Engineering & LLM Automation  </br>
-<br>✅ Web Scraping, Automation with Python  </br>
-<br>✅ Vector DBs, Retrieval‑Augmented Generation (RAG)  </br>
-<br>✅ Flask, FastAPI based AI Tools  </br>
-<br>✅ Streamlit for web UI </br>
-<br>✅ Git & GitHub for Project Management </br>
+✅ AI Agents using LangChain, OpenAI API
+✅ OpenAI Agent SDK
+✅ Prompt Engineering & LLM Automation
+✅ Web Scraping, Automation with Python
+✅ Vector DBs, Retrieval‑Augmented Generation (RAG)
+✅ Flask, FastAPI based AI Tools
+✅ Streamlit for Web UI
+✅ Git & GitHub for Project Management
 
 ---
 
