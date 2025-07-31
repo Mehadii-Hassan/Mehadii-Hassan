@@ -43,29 +43,6 @@
 
 ---
 
----
-🛠️ Preferred Stack
-<p align="left"> <!-- Python --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" />
-<!-- OpenAI (custom icon) --> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/OpenAI_Logo.svg" alt="OpenAI" width="40" />
-<!-- LangChain (custom icon) --> <img src="https://avatars.githubusercontent.com/u/139903294?s=200&v=4" alt="LangChain" width="40" />
-<!-- Zapier --> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Zapier_logo.svg/512px-Zapier_logo.svg.png" alt="Zapier" width="40" />
-<!-- Airflow --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Airflow" width="40" />
-<!-- SQL --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" />
-<!-- NoSQL --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="NoSQL" width="40" />
-<!-- Selenium --> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="Selenium" width="40" />
-<!-- FastAPI --> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="40" />
-<!-- Flask --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" />
-<!-- BeautifulSoup (custom icon) --> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Beautifulsoup-logo.png" alt="BeautifulSoup" width="40" />
-<!-- HTML --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" />
-<!-- CSS --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" />
-<!-- Azure --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" />
-<!-- Google Cloud --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" />
-<!-- AWS --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" /> </p>
----
-
-
-
----
 ## 📊 GitHub Stats
 
 <p align="center">
