@@ -16,19 +16,16 @@
 📅 Starting AI Agent Bootcamp on **28 June 2025**
 
 ---
+<h2>🚀 Key Skills I'm Building</h2>
 
-## 🚀 Key Skills I'm Building
-
-- ✅ **AI Agents using LangChain, OpenAI API**
-- ✅ **OpenAI Agent SDK**
-- ✅ **Prompt Engineering & LLM Automation**
-- ✅ **Web Scraping, Automation with Python**
-- ✅ **Vector DBs, Retrieval‑Augmented Generation (RAG)**
-- ✅ **Flask, FastAPI based AI Tools**
-- ✅ **Streamlit for Web UI**
-- ✅ **Git & GitHub for Project Management**
-
-
+<p>✅ AI Agents using LangChain, OpenAI API</p>
+<p>✅ OpenAI Agent SDK</p>
+<p>✅ Prompt Engineering & LLM Automation</p>
+<p>✅ Web Scraping, Automation with Python</p>
+<p>✅ Vector DBs, Retrieval‑Augmented Generation (RAG)</p>
+<p>✅ Flask, FastAPI based AI Tools</p>
+<p>✅ Streamlit for Web UI</p>
+<p>✅ Git & GitHub for Project Management</p>
 ---
 
 ## 🛠️ Languages & Tools
