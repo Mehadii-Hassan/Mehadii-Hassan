@@ -55,11 +55,8 @@
 </p>
 
 ---
-## 📈 Recent Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mehadii-Hassan&theme=tokyonight&area=true&hide_border=true" />
-</p>
+📈 Recent Activity
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mehadii-Hassan&theme=tokyonight&area=true&hide_border=true" alt="GitHub Activity Graph" /> </p>
 
 
 ---
