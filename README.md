@@ -55,12 +55,12 @@
 </p>
 
 ---
-
-## 📈 Recent Activity
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mehadii-Hassan&theme=tokyonight&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?usernameMehadii-Hassan&theme=react-dark" alt="Contribution Graph" />
 </p>
+
 
 ---
 
