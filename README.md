@@ -8,7 +8,7 @@
 
 ---
 
-## 👨‍💻 About Me
+<h2 align="center">## 👨‍💻 About Me</h2>
 
 🎓 CSE Student at IUBAT  
 🤖 Learning Artificial Intelligence & Machine Learning  
