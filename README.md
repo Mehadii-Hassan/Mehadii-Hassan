@@ -25,6 +25,15 @@
 <p>✅ Vector DBs, Retrieval‑Augmented Generation (RAG)</p>
 <p>✅ Flask, FastAPI based AI Tools</p>
 <p>✅ Streamlit for Web UI</p>
+<p>✅ LangGraph for Multi-Agent Workflow Orchestration</p>
+<p>✅ Local LLMs with Ollama</p>
+<p>✅ API Development & Testing (Postman)</p>
+<p>✅ Cloud Deployment: AWS, Azure & Google Cloud</p>
+<p>✅ Browser Automation using Selenium</p>
+<p>✅ Workflow Automation with Zapier</p>
+<p>✅ Task Scheduling with Apache Airflow</p>
+<p>✅ Data Extraction using BeautifulSoup</p>
+<p>✅ Structured & Unstructured Data Handling (SQL + NoSQL)</p>
 <p>✅ Git & GitHub for Project Management</p>
 
 ---
@@ -56,12 +65,13 @@
   <img src="https://img.shields.io/badge/BeautifulSoup-3F4E63?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-<!-- ⚙️ Automation & Scheduling -->
+<!-- ⚙️ Automation & Scripting -->
 <p align="left">
   <strong>⚙️ Automation & Scripting :</strong><br>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
 <!-- 🌐 Web Technologies -->
@@ -87,9 +97,10 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
-<!-- 🛠️ Developer Tools -->
+<!-- 📋 Project & Version Control -->
 <p align="left">
-  <strong>🛠️ Developer Tools :</strong><br>
+  <strong>📋 Project & Version Control :</strong><br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
