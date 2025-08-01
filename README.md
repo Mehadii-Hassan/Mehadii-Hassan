@@ -18,28 +18,23 @@
 ---
 <h2 align="center">🚀 Key Skills I'm Building</h2>
 
-<details>
-  <summary>Click to expand/collapse key skills</summary>
+<p>
+  ✅ LangChain & OpenAI API &nbsp;&nbsp;|&nbsp;&nbsp;  
+  ✅ OpenAI Agent SDK &nbsp;&nbsp;|&nbsp;&nbsp;  
+  ✅ Prompt Engineering &nbsp;&nbsp;|&nbsp;&nbsp;  
+  ✅ Python Automation &nbsp;&nbsp;|&nbsp;&nbsp;  
+  ✅ Vector DBs & RAG &nbsp;&nbsp;|&nbsp;&nbsp;  
+  ✅ Flask & FastAPI &nbsp;&nbsp;|&nbsp;&nbsp;  
+  ✅ Streamlit UI &nbsp;&nbsp;|&nbsp;&nbsp;  
+  ✅ LangGraph & Ollama &nbsp;&nbsp;|&nbsp;&nbsp;  
+  ✅ Postman & APIs &nbsp;&nbsp;|&nbsp;&nbsp;  
+  ✅ Cloud (AWS, Azure, GCP) &nbsp;&nbsp;|&nbsp;&nbsp;  
+  ✅ Selenium & Zapier &nbsp;&nbsp;|&nbsp;&nbsp;  
+  ✅ Airflow & BeautifulSoup &nbsp;&nbsp;|&nbsp;&nbsp;  
+  ✅ SQL & NoSQL &nbsp;&nbsp;|&nbsp;&nbsp;  
+  ✅ Git & GitHub
+</p>
 
-✅ AI Agents using LangChain, OpenAI API  
-✅ OpenAI Agent SDK  
-✅ Prompt Engineering & LLM Automation  
-✅ Web Scraping, Automation with Python  
-✅ Vector DBs, Retrieval‑Augmented Generation (RAG)  
-✅ Flask, FastAPI based AI Tools  
-✅ Streamlit for Web UI  
-✅ LangGraph for Multi-Agent Workflow Orchestration  
-✅ Local LLMs with Ollama  
-✅ API Development & Testing (Postman)  
-✅ Cloud Deployment: AWS, Azure & Google Cloud  
-✅ Browser Automation using Selenium  
-✅ Workflow Automation with Zapier  
-✅ Task Scheduling with Apache Airflow  
-✅ Data Extraction using BeautifulSoup  
-✅ Structured & Unstructured Data Handling (SQL + NoSQL)  
-✅ Git & GitHub for Project Management  
-
-</details>
 
 
 ---
