@@ -8,7 +8,7 @@
 
 ---
 
-<h2 align="center">## 👨‍💻 About Me</h2>
+<h2 align="center">👨‍💻 About Me</h2>
 
 🎓 CSE Student at IUBAT  
 🤖 Learning Artificial Intelligence & Machine Learning  
@@ -16,7 +16,7 @@
 📅 Starting AI Agent Bootcamp on **28 June 2025**
 
 ---
-<h2>🚀 Key Skills I'm Building</h2>
+<h2 align="center">🚀 Key Skills I'm Building</h2>
 
 <p>✅ AI Agents using LangChain, OpenAI API</p>
 <p>✅ OpenAI Agent SDK</p>
@@ -28,7 +28,7 @@
 <p>✅ Git & GitHub for Project Management</p>
 
 ---
-## 🛠️ Languages & Tools
+<h2 align="center">🛠️ Languages & Tools</h2>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -41,7 +41,7 @@
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mehadii-Hassan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -53,13 +53,13 @@
 </p>
 
 ---
-📈 Recent Activity
+<h2 align="center">📈Recent Activity</h2>
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mehadii-Hassan&theme=github-compact&area=true&hide_border=true" alt="GitHub Activity Graph" /> </p>
 
 
 ---
 
-## 📬 Contact Me
+<h2 align="center">📬Contact Me</h2>
 
 📧 Email: [mehadi.cse01@gmail.com](mailto:mehadi.cse01@gmail.com)
 
