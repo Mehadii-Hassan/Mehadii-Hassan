@@ -18,24 +18,44 @@
 ---
 <h2 align="center">🚀 Key Skills I'm Building</h2>
 
-<p>
-  ✅ LangChain & OpenAI API &nbsp;&nbsp;|&nbsp;&nbsp;  
-  ✅ OpenAI Agent SDK &nbsp;&nbsp;|&nbsp;&nbsp;  
-  ✅ Prompt Engineering &nbsp;&nbsp;|&nbsp;&nbsp;  
-  ✅ Python Automation &nbsp;&nbsp;|&nbsp;&nbsp;  
-  ✅ Vector DBs & RAG &nbsp;&nbsp;|&nbsp;&nbsp;  
-  ✅ Flask & FastAPI &nbsp;&nbsp;|&nbsp;&nbsp;  
-  ✅ Streamlit UI &nbsp;&nbsp;|&nbsp;&nbsp;  
-  ✅ LangGraph & Ollama &nbsp;&nbsp;|&nbsp;&nbsp;  
-  ✅ Postman & APIs &nbsp;&nbsp;|&nbsp;&nbsp;  
-  ✅ Cloud (AWS, Azure, GCP) &nbsp;&nbsp;|&nbsp;&nbsp;  
-  ✅ Selenium & Zapier &nbsp;&nbsp;|&nbsp;&nbsp;  
-  ✅ Airflow & BeautifulSoup &nbsp;&nbsp;|&nbsp;&nbsp;  
-  ✅ SQL & NoSQL &nbsp;&nbsp;|&nbsp;&nbsp;  
-  ✅ Git & GitHub
-</p>
-
-
+<table align="center" width="60%">
+  <tr>
+    <td>✅ AI Agents using LangChain, OpenAI API</td>
+    <td>✅ LangGraph for Multi-Agent Workflow Orchestration</td>
+  </tr>
+  <tr>
+    <td>✅ OpenAI Agent SDK</td>
+    <td>✅ Local LLMs with Ollama</td>
+  </tr>
+  <tr>
+    <td>✅ Prompt Engineering & LLM Automation</td>
+    <td>✅ API Development & Testing (Postman)</td>
+  </tr>
+  <tr>
+    <td>✅ Web Scraping, Automation with Python</td>
+    <td>✅ Cloud Deployment: AWS, Azure & Google Cloud</td>
+  </tr>
+  <tr>
+    <td>✅ Vector DBs, Retrieval‑Augmented Generation (RAG)</td>
+    <td>✅ Browser Automation using Selenium</td>
+  </tr>
+  <tr>
+    <td>✅ Flask, FastAPI based AI Tools</td>
+    <td>✅ Workflow Automation with Zapier</td>
+  </tr>
+  <tr>
+    <td>✅ Streamlit for Web UI</td>
+    <td>✅ Task Scheduling with Apache Airflow</td>
+  </tr>
+  <tr>
+    <td>✅ Data Extraction using BeautifulSoup</td>
+    <td>✅ Structured & Unstructured Data Handling (SQL + NoSQL)</td>
+  </tr>
+  <tr>
+    <td>✅ Git & GitHub for Project Management</td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 <h2 align="center">🛠️ Languages | Tools | Technology</h2>
