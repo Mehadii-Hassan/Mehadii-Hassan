@@ -48,14 +48,6 @@
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=llama&logoColor=white" />
 </p>
 
-<!-- 🌐 Web & API Frameworks -->
-<p align="left">
-  <strong>🌐 Web & API Frameworks:</strong><br>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
 <!-- 🛢️ Databases & Data Handling -->
 <p align="left">
   <strong>🛢️ Databases & Data Handling:</strong><br>
@@ -72,6 +64,21 @@
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+</p>
+
+<!-- 🌐 Web Technologies -->
+<p align="left">
+  <strong>🌐 Web Technologies:</strong><br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+<!-- 🌐 Web & API Frameworks -->
+<p align="left">
+  <strong>🌐 Web & API Frameworks:</strong><br>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 <!-- ☁️ Cloud Platforms -->
