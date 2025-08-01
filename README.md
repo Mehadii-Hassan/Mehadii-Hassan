@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-<h1 align="center">🚀 Passionate Learner | AI Enthusiast | Python Developer</h1>
+<h1 align="center">🚀 Passionate Learner | AI Agent Developer With Python</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=800&color=00FFAA&center=true&vCenter=true&width=500&lines=👋+Hello,+Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
