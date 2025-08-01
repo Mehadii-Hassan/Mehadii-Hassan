@@ -10,10 +10,10 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 
-🎓 CSE Student at IUBAT  
-🤖 Learning Artificial Intelligence & Machine Learning  
-💻 Focused on AI Tools, AI Agent 
-📅 Starting AI Agent Bootcamp on **28 June 2025**
+<p>🎓 CSE Student at IUBAT  </p>
+<p>🤖 Learning Artificial Intelligence & Machine Learning  </p>
+<p>💻 Focused on AI Tools, AI Agent </p>
+<p>📅 Starting AI Agent Bootcamp on **28 June 2025**</p>
 
 ---
 <h2 align="center">🚀 Key Skills I'm Building</h2>
