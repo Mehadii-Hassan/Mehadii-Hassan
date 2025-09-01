@@ -16,48 +16,6 @@
 <p>📅 Started AI Agent Bootcamp on <strong>28 June 2025</strong></p>
 
 ---
-<h2 align="center">🚀 Key Skills I'm Building</h2>
-
-<table align="center" width="60%">
-  <tr>
-    <td>✅ AI Agents using LangChain, OpenAI API</td>
-    <td>✅ LangGraph for Multi-Agent Workflow Orchestration</td>
-  </tr>
-  <tr>
-    <td>✅ OpenAI Agent SDK</td>
-    <td>✅ Local LLMs with Ollama</td>
-  </tr>
-  <tr>
-    <td>✅ Prompt Engineering & LLM Automation</td>
-    <td>✅ API Development & Testing (Postman)</td>
-  </tr>
-  <tr>
-    <td>✅ Web Scraping, Automation with Python</td>
-    <td>✅ Cloud Deployment: AWS, Azure & Google Cloud</td>
-  </tr>
-  <tr>
-    <td>✅ Vector DBs, Retrieval‑Augmented Generation (RAG)</td>
-    <td>✅ Browser Automation using Selenium</td>
-  </tr>
-  <tr>
-    <td>✅ Flask, FastAPI based AI Tools</td>
-    <td>✅ Workflow Automation with Zapier</td>
-  </tr>
-  <tr>
-    <td>✅ Streamlit for Web UI</td>
-    <td>✅ Task Scheduling with Apache Airflow</td>
-  </tr>
-  <tr>
-    <td>✅ Data Extraction using BeautifulSoup</td>
-    <td>✅ Structured & Unstructured Data Handling (SQL + NoSQL)</td>
-  </tr>
-  <tr>
-    <td>✅ Git & GitHub for Project Management</td>
-    <td></td>
-  </tr>
-</table>
-
----
 <h2 align="center">🛠️ Languages | Tools | Technology</h2>
 
 <!-- 🚀 Programming Languages -->
