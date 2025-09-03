@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=800&color=00FFAA&center=true&vCenter=true&width=500&lines=👋+Hello,+Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
+---
 
 <h1 align="center">Generative AI Developer With Python</h1>
 
