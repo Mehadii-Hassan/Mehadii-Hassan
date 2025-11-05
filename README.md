@@ -1,7 +1,7 @@
 <!-- README.md -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=800&color=00FFAA&center=true&vCenter=true&width=500&lines=👋+Hello,+Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-  <h1 align="center">Generative AI Developer With Python</h1>
+  <h1 align="center">AI & Data Science Learner</h1>
 </p>
 
 ---
@@ -10,7 +10,9 @@
 
 <p>🎓 CSE Student at IUBAT  </p>
 <p>🤖 Learning AI, Data Science, Machine Learning, Deep Learning, NLP, MLOps & Generative AI</p>
+
 ---
+
 <h2 align="center">🛠️ Languages | Tools | Technology</h2>
 
 <!-- 🚀 Programming Languages -->
