@@ -9,10 +9,7 @@
 <h2 align="center">About Me</h2>
 
 <p>🎓 CSE Student at IUBAT  </p>
-<p>🤖 Learning Generative AI & Machine Learning  </p>
-<p>💻 Focused on AI Tools, AI Agent </p>
-<p>📅 Started AI Agent Bootcamp on <strong>28 June 2025</strong></p>
-
+<p>🤖 Learning AI, Data Science, Machine Learning, Deep Learning, NLP, MLOps & Generative AI</p>
 ---
 <h2 align="center">🛠️ Languages | Tools | Technology</h2>
 
