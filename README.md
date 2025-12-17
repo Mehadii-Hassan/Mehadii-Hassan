@@ -104,10 +104,10 @@
 
 ---
 
-<h2 align="center">📬Contact Me</h2>
+<h2 align="center">📬 Contact Me</h2>
 
-📧 Email: [mehadi.cse01@gmail.com](mailto:mehadi.cse01@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR_USERNAME/](https://www.linkedin.com/in/md-mehadi-hassan-cse/))
+📧 Email: [mehadi.cse01@gmail.com](mailto:mehadi.cse01@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/md-mehadi-hassan](https://www.linkedin.com/in/md-mehadi-hassan-cse/)
 
 ---
 
