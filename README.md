@@ -90,11 +90,6 @@
 
 <hr />
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Every+bug+is+a+lesson,+every+solution+is+a+step+forward." 
-       alt="Inspirational Quote"/>
-</p>
-
 ---
 
 <p align="center" style="margin-top:10px;">
