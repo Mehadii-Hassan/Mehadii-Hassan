@@ -24,12 +24,12 @@
 <!-- 🛢️ Databases & Data Handling -->
 <p align="left">
   <strong>🛢️ Databases & Data Handling :</strong><br>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/NoSQL-8A4182?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vector%20Database-6E44FF?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-BC00DD?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/BeautifulSoup-3F4E63?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
+
 
 <!-- 🌐 Web & API Frameworks -->
 <p align="left">
@@ -77,6 +77,7 @@
 
 ---
 
-<p align="center">
+<p align="center" style="margin-top:10px;">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Every+bug+is+a+lesson,+every+solution+is+a+step+forward." alt="Inspirational Quote"/>
 </p>
+
