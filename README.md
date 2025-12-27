@@ -4,8 +4,6 @@
   <h1 align="center">AI & Data Science Learner</h1>
 </p>
 
----
-
 <h2 align="center">About Me</h2>
 
 <p>🎓 CSE Student at IUBAT  </p>
