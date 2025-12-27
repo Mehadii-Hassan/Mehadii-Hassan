@@ -70,8 +70,30 @@
 
 <h2 align="center">📬 Contact Me</h2>
 
-📧 Email: [mehadi.cse01@gmail.com](mailto:mehadi.cse01@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/md-mehadi-hassan](https://www.linkedin.com/in/md-mehadi-hassan-cse/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-mehadi-hassan-cse/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&labelColor=0A66C2" 
+         alt="Connect with me on LinkedIn!" 
+         title="Connect with me on LinkedIn!">
+  </a>
+  <a href="mailto:mehadi.cse01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" 
+         alt="Send me an email!" 
+         title="Send me an email!">
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=8801757399837&text=Hi,%20I%27m%20interested%20in%20your%20profile">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white" 
+         alt="Send me a message through WhatsApp!" 
+         title="Send me a message through WhatsApp!">
+  </a>
+</p>
+
+<hr />
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Every+bug+is+a+lesson,+every+solution+is+a+step+forward." 
+       alt="Inspirational Quote"/>
+</p>
 
 ---
 
