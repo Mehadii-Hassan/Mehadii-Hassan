@@ -50,18 +50,21 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mehadii-Hassan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mehadii-Hassan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mehadii-Hassan&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mehadii-Hassan&theme=tokyonight&hide_border=true&date_format=M%20j%5B,%20Y%5D" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehadii-Hassan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehadii-Hassan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" width="48%" />
 </p>
 
-<hr>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mehadii-Hassan&theme=github-compact&area=true&hide_border=true&cache_seconds=1800" />
+</p>
+
 
 ## 📈 Recent Activity
 
