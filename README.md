@@ -65,15 +65,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mehadii-Hassan&theme=github-compact&area=true&hide_border=true&cache_seconds=1800" />
 </p>
 
-
-## 📈 Recent Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mehadii-Hassan&theme=github-compact&area=true&hide_border=true" />
-</p>
-
-
-
 ---
 
 <h2 align="center">📬 Contact Me</h2>
