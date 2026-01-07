@@ -1,110 +1,92 @@
-<!-- ===================== README.md ===================== -->
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Md+Mehadi+Hassan;AI+%26+Data+Science+Enthusiast;Building+Tomorrow's+Solutions+Today)
+
+</div>
+
+<h2 align="center">🚀 Aspiring AI Engineer | Python Developer | CSE Student @ IUBAT</h2>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=800&color=00FFAA&center=true&vCenter=true&width=520&lines=👋+Hello,+Welcome+to+my+GitHub+Profile!" 
-    alt="Typing SVG" 
-  />
-</p>
-
-<h1 align="center">AI & Data Science Learner</h1>
-
-<p align="center">
-  Aspiring AI Engineer | Python Developer | CSE Student @ IUBAT
+  Passionate about leveraging AI and data science to solve real-world problems and create impactful solutions.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
-- 🎓 **Computer Science & Engineering (CSE)** student at **IUBAT**
-- 🤖 Focused on **AI, Data Science, Machine Learning, Deep Learning & Generative AI**
-- 🧠 Strong interest in **problem-solving, automation & real-world projects**
-- 🚀 Goal: Build industry-ready skills and work in top-tier tech companies
-
----
-
-## 🛠️ Technical Skills
-
-### 🧑‍💻 Programming Language
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-### 🛢️ Databases & Data Handling
-<p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/NoSQL-8A4182?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-### 🌐 Web & API Frameworks
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
-### 📋 Version Control
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+```python
+class MehadiHassan:
+    def __init__(self):
+        self.education = "Computer Science & Engineering @ IUBAT"
+        self.interests = ["AI", "Machine Learning", "Deep Learning", "Generative AI"]
+        self.focus = ["Problem Solving", "Automation", "Real-World Projects"]
+        self.goal = "Build industry-ready skills and contribute to cutting-edge tech"
+    
+    def current_status(self):
+        return "Learning, building, and growing every day 🌱"
+```
 
 ---
 
-## 📊 GitHub Overview
+### 🛠️ Technology Stack
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Mehadii-Hassan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-    width="48%" 
-  />
-</p>
+**Programming**
+```
+Python
+```
 
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=Mehadii-Hassan&theme=tokyonight&hide_border=true" 
-    width="48%" 
-  />
-</p>
+**Databases & Data Management**
+```
+SQL  •  MySQL  •  MongoDB  •  NoSQL
+```
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehadii-Hassan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
-    width="48%" 
-  />
-</p>
+**Web Development & APIs**
+```
+FastAPI  •  Flask  •  Postman
+```
 
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Mehadii-Hassan&theme=github-compact&area=true&hide_border=true" 
-  />
-</p>
+**Version Control**
+```
+Git  •  GitHub
+```
 
 ---
 
-## 📬 Connect With Me
+### 📊 GitHub Statistics
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/md-mehadi-hassan-cse/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mehadi.cse01@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=8801757399837">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mehadii-Hassan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mehadii-Hassan&theme=tokyonight&hide_border=true" width="49%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehadii-Hassan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mehadii-Hassan&theme=tokyo-night&area=true&hide_border=true" width="98%" />
+</div>
 
 ---
 
-<p align="center">
-  <img 
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Every+bug+is+a+lesson,+every+solution+is+a+step+forward." 
-  />
-</p>
+### 📫 Let's Connect
 
-<!-- ===================== END ===================== -->
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-mehadi-hassan-cse/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehadi.cse01@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=8801757399837)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💭 Philosophy
+
+*"Every bug is a lesson, every solution is a step forward."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=Mehadii-Hassan&color=brightgreen&style=flat-square)
+
+</div>
