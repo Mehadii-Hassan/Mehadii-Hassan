@@ -101,8 +101,11 @@ Explore more of my work in my repositories!
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mehadii-Hassan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mehadii-Hassan&theme=tokyonight&hide_border=true" width="49%" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mehadii-Hassan&theme=tokyonight&hide_border=true" width="49%" />
+</div> 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehadii-Hassan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
