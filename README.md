@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Md+Mehadi+Hassan;AI+%26+Data+Science+Enthusiast;Building+Tomorrow's+Solutions+Today)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Md.+Mehadi+Hassan;AI+%26+Data+Science+Enthusiast;Building+Tomorrow's+Solutions+Today)
 
 </div>
 
@@ -84,19 +84,6 @@ A modular, Gemini-powered AI assistant featuring persistent conversation memory 
 </td>
 </tr>
 <tr>
-<td width="50%">
-
-#### 🔮 [Project Name 3](https://github.com/Mehadii-Hassan/project-repo-3)
-**Deep Learning Solution**
-
-A brief description of your project (2-3 lines). What was the challenge? How did you approach it?
-
-`Python` `PyTorch` `OpenCV` `SQL`
-
-[![View Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mehadii-Hassan/project-repo-3)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=flat-square&logo=vercel&logoColor=white)](https://your-demo-link.com)
-
-</td>
 <td width="50%">
 
 #### 💡 More Projects
