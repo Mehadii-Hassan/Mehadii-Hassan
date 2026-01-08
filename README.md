@@ -52,6 +52,64 @@ Git  •  GitHub
 
 ---
 
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🎙️ [Personal Voice Assistant System](https://github.com/Mehadii-Hassan/Personal-Voice-Assistant-System)
+**AI-Powered Voice Assistant**
+
+A Python-based intelligent voice assistant that listens to your commands, processes them using Google's Generative AI, and responds with synthesized speech. Features speech recognition, web automation, Wikipedia search, music playback, and smart AI conversations.
+
+`Python` `Google Generative AI` `Speech Recognition` `pyttsx3`
+
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mehadii-Hassan/Personal-Voice-Assistant-System)
+[![Demo Video](https://img.shields.io/badge/Demo_Video-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/md-mehadi-hassan-cse_python-nlp-artificialintelligence-activity-7405672960776122368-mbhY)
+
+</td>
+<td width="50%">
+
+#### 🤖 [Modular AI Assistant with Memory & Roles](https://github.com/Mehadii-Hassan/Modular-AI-Assistant-with-Memory-Roles)
+**Role-Based AI Assistant**
+
+A modular, Gemini-powered AI assistant featuring persistent conversation memory and role-based behavior such as Tutor, Coding Assistant, and Career Mentor. Adapts responses based on user-selected roles for personalized interactions.
+
+`Python` `Google Gemini API` `Conversation Memory` `Role-Based AI`
+
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mehadii-Hassan/Modular-AI-Assistant-with-Memory-Roles)
+[![Demo Video](https://img.shields.io/badge/Demo_Video-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/md-mehadi-hassan-cse_ai-python-geminiapi-activity-7409660122437853185-akTt)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🔮 [Project Name 3](https://github.com/Mehadii-Hassan/project-repo-3)
+**Deep Learning Solution**
+
+A brief description of your project (2-3 lines). What was the challenge? How did you approach it?
+
+`Python` `PyTorch` `OpenCV` `SQL`
+
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mehadii-Hassan/project-repo-3)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=flat-square&logo=vercel&logoColor=white)](https://your-demo-link.com)
+
+</td>
+<td width="50%">
+
+#### 💡 More Projects
+Explore more of my work in my repositories!
+
+[![View All Projects](https://img.shields.io/badge/View_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mehadii-Hassan?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+---
+
 ### 📊 GitHub Statistics
 
 <div align="center">
