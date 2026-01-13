@@ -108,18 +108,6 @@ A modular, Gemini-powered AI assistant featuring persistent conversation memory 
 <tr>
 <td width="50%">
 
-#### 🔮 [Project Name 3](https://github.com/Mehadii-Hassan/project-repo-3)
-**Deep Learning Solution**
-
-A brief description of your project (2-3 lines). What was the challenge? How did you approach it?
-
-`Python` `PyTorch` `OpenCV` `SQL`
-
-[![View Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mehadii-Hassan/project-repo-3)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=flat-square&logo=vercel&logoColor=white)](https://your-demo-link.com)
-
-</td>
-<td width="50%">
 
 #### 💡 More Projects
 Explore more of my work in my repositories!
@@ -129,51 +117,6 @@ Explore more of my work in my repositories!
 </td>
 </tr>
 </table>
-
----
-
-### 📜 Certifications & Learning
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-<img src="https://via.placeholder.com/300x200/0A66C2/FFFFFF?text=Certificate+Image+1" width="250px" alt="Certificate 1"/>
-
-**Certification Name 1**  
-*Platform Name* | 2024
-
-[![Verify](https://img.shields.io/badge/Verify_Certificate-0A66C2?style=flat-square&logo=certificate&logoColor=white)](https://your-certificate-link.com)
-
-</td>
-<td align="center" width="33%">
-
-<img src="https://via.placeholder.com/300x200/00D9FF/FFFFFF?text=Certificate+Image+2" width="250px" alt="Certificate 2"/>
-
-**Certification Name 2**  
-*Platform Name* | 2024
-
-[![Verify](https://img.shields.io/badge/Verify_Certificate-00D9FF?style=flat-square&logo=certificate&logoColor=white)](https://your-certificate-link.com)
-
-</td>
-<td align="center" width="33%">
-
-<img src="https://via.placeholder.com/300x200/25D366/FFFFFF?text=Certificate+Image+3" width="250px" alt="Certificate 3"/>
-
-**Certification Name 3**  
-*Platform Name* | 2023
-
-[![Verify](https://img.shields.io/badge/Verify_Certificate-25D366?style=flat-square&logo=certificate&logoColor=white)](https://your-certificate-link.com)
-
-</td>
-</tr>
-</table>
-
-*Continuously learning and expanding my skill set* 📚
-
-</div>
 
 ---
 
