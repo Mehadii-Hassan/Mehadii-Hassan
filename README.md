@@ -37,7 +37,7 @@ Python
 
 **Data Science & Analysis**
 ```
-Pandas  •  NumPy
+Pandas  •  NumPy  •  Matplotlib  •  Seaborn
 ```
 
 **Databases & Data Management**
