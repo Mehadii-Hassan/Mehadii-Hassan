@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Md.+Mehadi+Hassan;AI+%26+Data+Science+Enthusiast;Building+Tomorrow's+Solutions+Today)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Md+Mehadi+Hassan;AI+%26+Data+Science+Enthusiast;Building+Tomorrow's+Solutions+Today)
 
 </div>
 
@@ -35,6 +35,11 @@ class MehadiHassan:
 Python
 ```
 
+**Data Science & Analysis**
+```
+Pandas  •  NumPy
+```
+
 **Databases & Data Management**
 ```
 SQL  •  MySQL  •  MongoDB  •  NoSQL
@@ -49,6 +54,23 @@ FastAPI  •  Flask  •  Postman
 ```
 Git  •  GitHub
 ```
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mehadii-Hassan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mehadii-Hassan&theme=tokyonight&hide_border=true" width="49%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehadii-Hassan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mehadii-Hassan&theme=tokyo-night&area=true&hide_border=true" width="98%" />
+</div>
 
 ---
 
@@ -86,6 +108,19 @@ A modular, Gemini-powered AI assistant featuring persistent conversation memory 
 <tr>
 <td width="50%">
 
+#### 🔮 [Project Name 3](https://github.com/Mehadii-Hassan/project-repo-3)
+**Deep Learning Solution**
+
+A brief description of your project (2-3 lines). What was the challenge? How did you approach it?
+
+`Python` `PyTorch` `OpenCV` `SQL`
+
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mehadii-Hassan/project-repo-3)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00D9FF?style=flat-square&logo=vercel&logoColor=white)](https://your-demo-link.com)
+
+</td>
+<td width="50%">
+
 #### 💡 More Projects
 Explore more of my work in my repositories!
 
@@ -97,22 +132,47 @@ Explore more of my work in my repositories!
 
 ---
 
-### 📊 GitHub Statistics
+### 📜 Certifications & Learning
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mehadii-Hassan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mehadii-Hassan&theme=tokyonight&hide_border=true" width="49%" />
-</div> 
+<table>
+<tr>
+<td align="center" width="33%">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehadii-Hassan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
-</div>
+<img src="https://via.placeholder.com/300x200/0A66C2/FFFFFF?text=Certificate+Image+1" width="250px" alt="Certificate 1"/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mehadii-Hassan&theme=tokyo-night&area=true&hide_border=true" width="98%" />
+**Certification Name 1**  
+*Platform Name* | 2024
+
+[![Verify](https://img.shields.io/badge/Verify_Certificate-0A66C2?style=flat-square&logo=certificate&logoColor=white)](https://your-certificate-link.com)
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://via.placeholder.com/300x200/00D9FF/FFFFFF?text=Certificate+Image+2" width="250px" alt="Certificate 2"/>
+
+**Certification Name 2**  
+*Platform Name* | 2024
+
+[![Verify](https://img.shields.io/badge/Verify_Certificate-00D9FF?style=flat-square&logo=certificate&logoColor=white)](https://your-certificate-link.com)
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://via.placeholder.com/300x200/25D366/FFFFFF?text=Certificate+Image+3" width="250px" alt="Certificate 3"/>
+
+**Certification Name 3**  
+*Platform Name* | 2023
+
+[![Verify](https://img.shields.io/badge/Verify_Certificate-25D366?style=flat-square&logo=certificate&logoColor=white)](https://your-certificate-link.com)
+
+</td>
+</tr>
+</table>
+
+*Continuously learning and expanding my skill set* 📚
+
 </div>
 
 ---
