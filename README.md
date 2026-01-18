@@ -61,24 +61,22 @@ Git  •  GitHub
 
 <table align="center">
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=Mehadii-Hassan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
     </td>
-    <td align="center">
+    <td align="center" width="50%">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=Mehadii-Hassan&theme=tokyonight&hide_border=true" />
     </td>
-    <td align="center">
+  </tr>
+  <tr>
+    <td align="center" width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehadii-Hassan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mehadii-Hassan&theme=tokyo-night&area=true&hide_border=true" />
     </td>
   </tr>
 </table>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mehadii-Hassan&theme=tokyo-night&area=true&hide_border=true" width="98%" />
-</div>
-
 
 ---
 
