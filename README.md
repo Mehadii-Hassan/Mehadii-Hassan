@@ -1,10 +1,10 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Md+Mehadi+Hassan;AI+%26+Data+Science+Specialist;Building+Tomorrow's+Solutions+Today)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Md+Mehadi+Hassan;ML+%26+Data+Science+Specialist;Building+Tomorrow's+Solutions+Today)
 
 </div>
 
-<h2 align="center">🚀 Aspiring AI Engineer | Python Developer | CSE Student @ IUBAT</h2>
+<h2 align="center">Data Science Specialist Python, ML, Data Visualization, BI</h2>
 
 <p align="center">
   Passionate about leveraging AI and data science to solve real-world problems and create impactful solutions.
