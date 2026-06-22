@@ -17,16 +17,46 @@
 ```python
 class MehadiHassan:
     def __init__(self):
-        self.education = "Computer Science & Engineering @ IUBAT"
-        self.interests = ["AI", "Machine Learning", "Deep Learning", "Generative AI"]
-        self.focus = ["Problem Solving", "Automation", "Real-World Projects"]
-        self.goal = "Build industry-ready skills and contribute to cutting-edge tech"
-    
+        self.education = "B.Sc. in Computer Science & Engineering @ IUBAT"
+
+        self.specialization = [
+            "Machine Learning",
+            "Data Science",
+            "Predictive Analytics"
+        ]
+
+        self.skills = [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "XGBoost"
+        ]
+
+        self.focus = [
+            "Feature Engineering",
+            "Model Building",
+            "Model Evaluation",
+            "Model Deployment"
+        ]
+
+        self.current_learning = [
+            "Deep Learning",
+            "Computer Vision",
+            "Generative AI",
+            "MLOps"
+        ]
+
+        self.goal = (
+            "Build production-ready AI solutions and contribute "
+            "to impactful real-world projects"
+        )
+
     def current_status(self):
-        return "Learning, building, and growing every day 🌱"
+        return "Learning, building, and deploying ML solutions 🚀"
 ```
 
----
 
 ### 🛠️ Technology Stack
 
