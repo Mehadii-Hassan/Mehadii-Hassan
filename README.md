@@ -17,8 +17,6 @@
 
 ### 👨‍💻 About Me
 
-### 👨‍💻 About Me
-
 * 🎓 Computer Science & Engineering student at **IUBAT**
 * 🤖 Passionate about **Machine Learning** and **Data Science**
 * 📊 Experienced with **Python, SQL, Pandas, NumPy, Scikit-Learn, and XGBoost**
