@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=28\&duration=3000\&pause=1000\&color=00D9FF\&center=true\&vCenter=true\&width=700\&lines=Hi+there!+👋+I'm+Md+Mehadi+Hassan;Machine+Learning+Engineer;Data+Science+Specialist;Building+Tomorrow's+Solutions+Today)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=28\&duration=3000\&pause=1000\&color=00D9FF\&center=true\&vCenter=true\&width=700\&lines=Hi+there!👋;I'm+Md+Mehadi+Hassan;Machine+Learning+Engineer;Data+Science+Specialist;Building+Tomorrow's+Solutions+Today)
 
 </div>
 
