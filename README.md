@@ -40,6 +40,15 @@ Python
 Pandas  •  NumPy  •  Matplotlib  •  Seaborn
 ```
 
+
+**Machine Learning**
+```
+Scikit-learn • XGBoost • Regression • Classification
+Clustering • PCA • Time Series Forecasting
+Feature Engineering • Hyperparameter Tuning
+• Model Evaluation • Model Deployment
+```
+
 **Databases & Data Management**
 ```
 SQL  •  MySQL  •  MongoDB  •  NoSQL
