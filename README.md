@@ -17,47 +17,17 @@
 
 ### 👨‍💻 About Me
 
-```python
-class MehadiHassan:
-    def __init__(self):
-        self.education = "B.Sc. in Computer Science & Engineering @ IUBAT"
+### 👨‍💻 About Me
 
-        self.specialization = [
-            "Machine Learning",
-            "Data Science",
-            "Predictive Analytics"
-        ]
+* 🎓 Computer Science & Engineering student at **IUBAT**
+* 🤖 Passionate about **Machine Learning** and **Data Science**
+* 📊 Experienced with **Python, SQL, Pandas, NumPy, Scikit-Learn, and XGBoost**
+* 🔍 Interested in **Predictive Analytics, Feature Engineering, and Model Development**
+* 🚀 Currently learning **Deep Learning, Computer Vision, Generative AI, and MLOps**
+* 🛠️ Building real-world projects focused on solving practical problems with data
+* 🌱 Continuously improving my skills through hands-on projects and research
+* 🎯 Goal: Build production-ready AI solutions and contribute to impactful technology
 
-        self.skills = [
-            "Python",
-            "SQL",
-            "Pandas",
-            "NumPy",
-            "Scikit-Learn",
-            "XGBoost"
-        ]
-
-        self.focus = [
-            "Feature Engineering",
-            "Model Building",
-            "Model Evaluation",
-            "Model Deployment"
-        ]
-
-        self.current_learning = [
-            "Deep Learning",
-            "Computer Vision",
-            "Generative AI",
-            "MLOps"
-        ]
-
-        self.goal = (
-            "Build production-ready AI solutions and contribute "
-            "to impactful real-world projects"
-        )
-
-    def current_status(self):
-        return "Learning, building, and deploying ML solutions 🚀"
 ```
 
 
