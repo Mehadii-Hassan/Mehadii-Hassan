@@ -1,70 +1,46 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=28\&duration=3000\&pause=1000\&color=00D9FF\&center=true\&vCenter=true\&width=700\&lines=Hi+there!👋;I'm+Md+Mehadi+Hassan;Machine+Learning+Engineer;Data+Science+Specialist;Building+Tomorrow's+Solutions+Today)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+there!👋;I'm+Md+Mehadi+Hassan;AI+%26+ML+Engineer;Building+Autonomous+Agents+%26+RAG;Deploying+Production-Ready+AI)
 
 </div>
 
-
-</div>
-
-<h2 align="center">Machine Learning Engineer | Python, SQL, Pandas, NumPy, Scikit-Learn | Feature Engineering, Model Building & Deployment | </h2>
+<h2 align="center">AI/ML Engineer | RAG Systems • Multi-Agent Networks • LangChain • FastAPI • MLOps</h2>
 
 <p align="center">
-  Passionate about leveraging AI and data science to solve real-world problems and create impactful solutions.
+  Building, deploying, and optimizing end-to-end intelligent systems, autonomous agent workflows, and production RAG pipelines.
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-* 🎓 Computer Science & Engineering student at **IUBAT**
-* 🤖 Passionate about **Machine Learning** and **Data Science**
-* 📊 Experienced with **Python, SQL, Pandas, NumPy, Scikit-Learn, and XGBoost**
-* 🔍 Interested in **Predictive Analytics, Feature Engineering, and Model Development**
-* 🚀 Currently learning **Deep Learning, Computer Vision, Generative AI, and MLOps**
-* 🛠️ Building real-world projects focused on solving practical problems with data
-* 🌱 Continuously improving my skills through hands-on projects and research
-* 🎯 Goal: Build production-ready AI solutions and contribute to impactful technology
+- 🎓 Computer Science & Engineering student at **IUBAT**
+- 🤖 Specializing in **Generative AI, Autonomous Multi-Agent Workflows, and Enterprise RAG Systems**
+- 📊 Proficient in **Python, LangChain, LangGraph, CrewAI, LlamaIndex, Vector DBs, FastAPI, and Docker**
+- 🔍 Experienced in **Hybrid Vector Search, Context Reranking, Agentic Routing, and MLOps**
+- 🛠️ Architecting containerized AI microservices and production-ready machine learning pipelines
+- 🚀 Experimenting with **Model Context Protocol (MCP), n8n automation, MLflow, and DVC**
+- 🌱 Continuously bridging the gap between cutting-edge AI research and scalable software applications
+- 🎯 Goal: Deliver high-impact, production-grade AI solutions and autonomous systems globally
 
-```
+---
 
-
-```
 ### 🛠️ Technology Stack
 
-**Programming**
-```
-Python
-```
+#### Programming & Backends
+Python • FastAPI • Flask • SQL • RESTful Architecture
 
-**Data Science & Analysis**
-```
-Pandas  •  NumPy  •  Matplotlib  •  Seaborn
-```
+#### Generative AI & Agent Frameworks
+LangChain • LangGraph • CrewAI • LlamaIndex • AutoGen • Prompt Engineering
 
+#### Vector Databases & Semantic Search
+ChromaDB • Pinecone • FAISS • Embeddings • Hybrid Search
 
-**Machine Learning**
-```
-Scikit-learn • XGBoost • Regression • Classification
-Clustering • PCA • Time Series Forecasting
-Feature Engineering • Hyperparameter Tuning
-• Model Evaluation • Model Deployment
-```
+#### Data Science & Machine Learning
+Pandas • NumPy • Scikit-learn • PyTorch • Matplotlib • Seaborn
 
-**Databases & Data Management**
-```
-SQL  •  MySQL  •  MongoDB  •  NoSQL
-```
-
-**Web Development & APIs**
-```
-FastAPI  •  Flask  •  Postman
-```
-
-**Version Control**
-```
-Git  •  GitHub
-```
+#### MLOps, Cloud & Infrastructure
+Docker • MLflow • DVC • Git • GitHub • AWS Basics • Streamlit
 
 ---
 
@@ -98,9 +74,10 @@ Git  •  GitHub
 <td width="50%">
 
 #### 🎙️ [Personal Voice Assistant System](https://github.com/Mehadii-Hassan/Personal-Voice-Assistant-System)
+
 **AI-Powered Voice Assistant**
 
-A Python-based intelligent voice assistant that listens to your commands, processes them using Google's Generative AI, and responds with synthesized speech. Features speech recognition, web automation, Wikipedia search, music playback, and smart AI conversations.
+A Python-based intelligent voice assistant that listens to commands, processes them using Google's Generative AI APIs, and responds with synthesized speech. Features speech recognition, web automation, Wikipedia search, and smart AI conversation capabilities.
 
 `Python` `Google Generative AI` `Speech Recognition` `pyttsx3`
 
@@ -111,9 +88,10 @@ A Python-based intelligent voice assistant that listens to your commands, proces
 <td width="50%">
 
 #### 🤖 [Modular AI Assistant with Memory & Roles](https://github.com/Mehadii-Hassan/Modular-AI-Assistant-with-Memory-Roles)
+
 **Role-Based AI Assistant**
 
-A modular, Gemini-powered AI assistant featuring persistent conversation memory and role-based behavior such as Tutor, Coding Assistant, and Career Mentor. Adapts responses based on user-selected roles for personalized interactions.
+A modular, Gemini-powered AI assistant featuring persistent conversation memory and dynamic role-based behaviors (Tutor, Coding Assistant, Career Mentor). Features customized system prompts and adaptive user interactions.
 
 `Python` `Google Gemini API` `Conversation Memory` `Role-Based AI`
 
@@ -122,11 +100,12 @@ A modular, Gemini-powered AI assistant featuring persistent conversation memory 
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
-
 #### 💡 More Projects
+
 Explore more of my work in my repositories!
 
 [![View All Projects](https://img.shields.io/badge/View_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mehadii-Hassan?tab=repositories)
@@ -141,7 +120,7 @@ Explore more of my work in my repositories!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-mehadi-hassan-cse/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-mehadi-hassan-ai/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehadi.cse01@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=8801757399837)
 
@@ -150,7 +129,7 @@ Explore more of my work in my repositories!
 ---
 
 <div align="center">
-  
+
 ### 💭 Philosophy
 
 *"Every bug is a lesson, every solution is a step forward."*
